@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Bad+Script&family=Cabin:wght@600&family=Covered+By+Your+Grace&family=Dancing+Script:wght@700&family=Gloria+Hallelujah&family=Inter+Tight:ital@0;1&family=Pacifico&display=swap');
+
+#namelogo {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 50px;
+    color: rgb(113, 4, 113);
+}
+
+#a4 {
+    height: 500px;
+    width: 620px;
+}
+
+#hi {
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 120px;
+    color: rgb(113, 4, 113);
+    text-indent: 10px;
+    line-height: 1.5;
+    margin-top: 50px;
+}
+
+#a1 {
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: x-large;
+    color: rgb(113, 4, 113);
+    text-indent: 10px;
+    line-height: 1.5;
+}
+
+#a2 {
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: x-large;
+    color: rgb(113, 4, 113);
+    text-indent: 10px;
+    line-height: 1.5;
+}
+
+#about1 {
+    color: rgb(113, 4, 113);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2px 3px #1e1a1a;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+}
+
+#about2 {
+    background-image: url("./2.jpg");
+}
+
+#intro {
+    font-family: 'Alkalami', serif;
+    font-size: large;
+    text-align: justify;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    margin-left: 9px;
+    background-color: white;
+    color: rgb(113, 4, 113);
+    border-radius: 10px;
+}
+
+button:hover {
+    color: white;
+    color: rgb(113, 4, 113);
+}
+
+#b1 {
+    color: rgb(113, 4, 113);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 45px;
+    text-shadow: 2px 3px #1e1a1a;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+}
+
+h2 {
+    color: rgb(113, 4, 113);
+    font-family: 'Pacifico', cursive;
+}
+
+#button3{
+    height: 50px;
+    width: 400px;
+    color: rgb(113, 4, 113);
+    border-radius: 10px;
+    align-items: center;
+}
+
+#button2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#contact2{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2px 3px #1e1a1a;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+}
+
+#contact1{
+    background-color: rgb(240, 220, 240);
+}
+
+li{
+    list-style: none;
+}
+
+#p1{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 100px;
+}
+
+#p2{
+    margin-left: 200px;  
+}
